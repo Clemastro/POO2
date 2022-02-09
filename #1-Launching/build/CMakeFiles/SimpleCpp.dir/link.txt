@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SimpleCpp.dir/src/main.cpp.o  -o ../bin/Debug/SimpleCpp 
