@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/clement/Bureau/IMAC/S4/POO2/#2-Debugger/build",
+  "command": "/usr/bin/c++   -I\"/home/clement/Bureau/IMAC/S4/POO2/#2-Debugger/src\"  -g   -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/main.cpp.o -c \"/home/clement/Bureau/IMAC/S4/POO2/#2-Debugger/src/main.cpp\"",
+  "file": "/home/clement/Bureau/IMAC/S4/POO2/#2-Debugger/src/main.cpp"
+}
+]
